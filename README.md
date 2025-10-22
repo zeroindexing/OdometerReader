@@ -3,6 +3,7 @@
 Frontend:
 Next.js
 HTML camera input: \<input type="file" accept="image/*" capture="camera"> <!-- browser native -->
+
 Tailwind for timeline
 Localstorage for storing date/measurement pairs
 
