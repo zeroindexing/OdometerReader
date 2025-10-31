@@ -17,6 +17,7 @@ vercel free plan
 
 
 Tutorials:
+
 Tailwind: https://www.youtube.com/watch?v=lCxcTsOHrjo
 
 React: https://www.youtube.com/watch?v=f55qeKGgB_M
