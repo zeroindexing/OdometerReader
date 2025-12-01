@@ -1,0 +1,7 @@
+{
+  "name": "Digital Odometer Log",
+  "description": "Save your odometer history to a local tracking app!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
